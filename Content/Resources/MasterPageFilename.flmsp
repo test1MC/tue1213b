@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="274" MadCap:lastWidth="1214">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <h2>
+            <MadCap:variable name="System.Title" /> ◄ Heading from MasterPage using system.title</h2>
+        <MadCap:bodyProxy />
+        <h4>Menu Proxy</h4>
+        <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+        <h4>MiniTOC</h4>
+        <MadCap:miniTocProxy />
+    </body>
+</html>

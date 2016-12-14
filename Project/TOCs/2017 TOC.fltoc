@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SetInTitleTag1.htm">
+        <TocEntry Title="[%=System.LinkedHeader%]" Link="/Content/SetInTitleTag2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <TocEntry Title="[%=System.LinkedFile%]" Link="/Content/SetInTitleTag3.htm" />
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Alpha.htm">
+        <TocEntry Title="[%=System.LinkedHeader%]" Link="/Content/Beta.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <TocEntry Title="[%=System.LinkedFile%]" Link="/Content/Charlie.htm">
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/noheading.htm" />
+            </TocEntry>
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

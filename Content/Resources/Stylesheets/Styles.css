@@ -1,0 +1,16 @@
+﻿/*<meta />*/
+
+MadCap|xref
+{
+	mc-format: '{title}';
+}
+
+MadCap|xref.paratext
+{
+	mc-format: '{paratext}';
+}
+
+MadCap|xref.para
+{
+	mc-format: '{para}';
+}

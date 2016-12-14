@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="HTML5 Search Bar skin" ComponentType="SearchBar" EnableResponsiveOutput="True">
+    <Stylesheet>
+        <Styles>
+            <Style Name="Search Bar">
+                <Properties>
+                    <Property Name="Height">4em</Property>
+                    <Property Name="BorderTop">solid 5px #000000</Property>
+                    <Property Name="BorderRight">solid 5px #000000</Property>
+                    <Property Name="BorderBottom">solid 5px #000000</Property>
+                    <Property Name="BorderLeft">solid 5px #000000</Property>
+                    <Property Name="Display">block</Property>
+                </Properties>
+            </Style>
+        </Styles>
+    </Stylesheet>
+    <Strings />
+</CatapultSkin>

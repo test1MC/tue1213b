@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget Version="1" Comment="New Batch Target" Guid="e2d763e9-91e4-4e03-bf71-4b413c73128b">
+    <Targets>
+        <Target Icon="System.Drawing.Bitmap" Name="8.5HTML5_static" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="8.5TopNav" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="chm" Type="HTML Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="clean xhtml" Type="Clean XHTML" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="dita" Type="DITA" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="dotnet" Type="DotNet Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="eclipse" Type="Eclipse Help" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="epub_dynamic" Type="EPUB" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="epub_static" Type="EPUB" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="tripane" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="mobile" Type="WebHelp Mobile" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="pdf" Type="PDF" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="server-based/8.5H5Plus_none" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="server-based/8.5H5Plus_responsive" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="server-based/8.5H5Plus_static" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="server-based/8.5H5Plus_top" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="server-based/8.5whPlus" Type="WebHelp Plus" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="webhelp" Type="WebHelp" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="word" Type="Word" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="xhtmlbook" Type="XHTML Book" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="xps" Type="XPS" Build="true" />
+    </Targets>
+</CatapultBatchTarget>

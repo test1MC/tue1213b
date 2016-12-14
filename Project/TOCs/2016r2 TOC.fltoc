@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="A New Hope" Link="/Content/SetInTitleTag1.htm">
+        <TocEntry Title="The Empire Strikes Back" Link="/Content/SetInTitleTag2.htm">
+            <TocEntry Title="Return of the Jedi" Link="/Content/SetInTitleTag3.htm" />
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="h1 in topic" Link="/Content/Alpha.htm">
+        <TocEntry Title="h2 in topic" Link="/Content/Beta.htm">
+            <TocEntry Title="h3 in topic" Link="/Content/Charlie.htm">
+                <TocEntry Title="noheading" Link="/Content/noheading.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            </TocEntry>
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>
